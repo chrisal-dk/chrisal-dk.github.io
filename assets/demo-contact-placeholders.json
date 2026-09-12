@@ -1,0 +1,9 @@
+{
+  "note": "Reserved fictional placeholders generated for design/testing only. Do not publish as real contact channels.",
+  "phone": "+1 202-555-0111",
+  "supportEmail": "support@chrisal.example",
+  "salesEmail": "sales@chrisal.example",
+  "helloEmail": "hello@chrisal.example",
+  "reserved": true,
+  "publishable": false
+}

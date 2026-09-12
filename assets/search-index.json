@@ -1,0 +1,488 @@
+[
+  {
+    "title": "Chrisal",
+    "h1": "Chrisal turns discovery into a complete brand experience.",
+    "description": "A modern commerce brand designed around products, collections, customer experience, and digital discovery.",
+    "path": "index.html"
+  },
+  {
+    "title": "Capabilities",
+    "h1": "Capabilities built to work together.",
+    "description": "Explore the complete capability system behind Chrisal.",
+    "path": "services.html"
+  },
+  {
+    "title": "About",
+    "h1": "Built as a complete brand system.",
+    "description": "The direction, principles, and digital identity behind Chrisal.",
+    "path": "about.html"
+  },
+  {
+    "title": "Approach",
+    "h1": "A deliberate path from idea to experience.",
+    "description": "How Chrisal turns direction into a complete digital experience.",
+    "path": "approach.html"
+  },
+  {
+    "title": "Principles",
+    "h1": "The rules that keep the experience strong.",
+    "description": "The design and publishing principles used throughout Chrisal.",
+    "path": "principles.html"
+  },
+  {
+    "title": "Insights",
+    "h1": "Ideas with enough depth to be useful.",
+    "description": "Ideas, frameworks, and practical thinking from the Chrisal brand system.",
+    "path": "insights.html"
+  },
+  {
+    "title": "Resources",
+    "h1": "Useful paths through the brand.",
+    "description": "Explore the core resources and reference pages for Chrisal.",
+    "path": "resources.html"
+  },
+  {
+    "title": "Support",
+    "h1": "Support, organized around the next useful action.",
+    "description": "Support center for Chrisal.",
+    "path": "support.html"
+  },
+  {
+    "title": "Support Request",
+    "h1": "A better support request starts with the right context.",
+    "description": "Prepare a support request for Chrisal.",
+    "path": "support-request.html"
+  },
+  {
+    "title": "Help Center",
+    "h1": "Find the right answer before opening a request.",
+    "description": "Help center for Chrisal.",
+    "path": "help-center.html"
+  },
+  {
+    "title": "Getting Started",
+    "h1": "Start with context, then move to the right path.",
+    "description": "Getting started with Chrisal.",
+    "path": "getting-started.html"
+  },
+  {
+    "title": "Service Status",
+    "h1": "Operational information without invented uptime.",
+    "description": "Operational status information for Chrisal.",
+    "path": "status.html"
+  },
+  {
+    "title": "Search",
+    "h1": "Find the right page quickly.",
+    "description": "Search the Chrisal website.",
+    "path": "search.html"
+  },
+  {
+    "title": "Trust Center",
+    "h1": "Trust is built from accurate information.",
+    "description": "Trust, security, privacy, accessibility, and support information for Chrisal.",
+    "path": "trust-center.html"
+  },
+  {
+    "title": "FAQ",
+    "h1": "Questions, answered clearly.",
+    "description": "Frequently asked questions about Chrisal and the structure of this website.",
+    "path": "faq.html"
+  },
+  {
+    "title": "Contact",
+    "h1": "Reach the right channel.",
+    "description": "Contact Chrisal through verified public business channels.",
+    "path": "contact.html"
+  },
+  {
+    "title": "Site Map",
+    "h1": "Every important path, in one place.",
+    "description": "Complete site map for Chrisal.",
+    "path": "sitemap.html"
+  },
+  {
+    "title": "Privacy",
+    "h1": "Privacy",
+    "description": "Privacy information for the Chrisal website.",
+    "path": "privacy.html"
+  },
+  {
+    "title": "Terms",
+    "h1": "Terms",
+    "description": "Terms information for the Chrisal website.",
+    "path": "terms.html"
+  },
+  {
+    "title": "Accessibility",
+    "h1": "Accessibility",
+    "description": "Accessibility information for the Chrisal website.",
+    "path": "accessibility.html"
+  },
+  {
+    "title": "Security",
+    "h1": "Security",
+    "description": "Security information for the Chrisal website.",
+    "path": "security.html"
+  },
+  {
+    "title": "Acceptable Use",
+    "h1": "Use public resources responsibly.",
+    "description": "Acceptable-use framework for the Chrisal website and public resources.",
+    "path": "acceptable-use.html"
+  },
+  {
+    "title": "Page not found",
+    "h1": "That page isn’t here.",
+    "description": "The requested page could not be found on Chrisal.",
+    "path": "404.html"
+  },
+  {
+    "title": "Shop",
+    "h1": "Shop",
+    "description": "A commerce-ready storefront shell for verified products and inventory.",
+    "path": "shop.html"
+  },
+  {
+    "title": "Collections",
+    "h1": "Collections",
+    "description": "Curated merchandising architecture for product discovery.",
+    "path": "collections.html"
+  },
+  {
+    "title": "New Arrivals",
+    "h1": "New Arrivals",
+    "description": "A launch surface for real new products when the catalog is connected.",
+    "path": "new-arrivals.html"
+  },
+  {
+    "title": "Brand Story Capability",
+    "h1": "Brand Story",
+    "description": "Chrisal — Brand Story. Brand Story is treated as part of the complete Chrisal experience — designed to connect the system while keeping the experience clear, useful, and maintainable.",
+    "path": "brand-story.html"
+  },
+  {
+    "title": "Support Capability",
+    "h1": "Support",
+    "description": "Chrisal — Support. Support is treated as part of the complete Chrisal experience — designed to organize the system while keeping the experience clear, useful, and maintainable.",
+    "path": "capability-support.html"
+  },
+  {
+    "title": "Merchandising starts with structure",
+    "h1": "Merchandising starts with structure",
+    "description": "How category logic, collection naming, filters, and visual hierarchy shape product discovery.",
+    "path": "insight-1.html"
+  },
+  {
+    "title": "Designing product pages for confidence",
+    "h1": "Designing product pages for confidence",
+    "description": "Why information architecture matters as much as imagery.",
+    "path": "insight-2.html"
+  },
+  {
+    "title": "A brand should survive beyond the grid",
+    "h1": "A brand should survive beyond the grid",
+    "description": "How editorial content can make an ecommerce experience feel more complete and memorable.",
+    "path": "insight-3.html"
+  },
+  {
+    "title": "Solutions",
+    "h1": "Solutions",
+    "description": "A structured view of how the brand can solve different needs.",
+    "path": "solutions.html"
+  },
+  {
+    "title": "Stories",
+    "h1": "Stories",
+    "description": "Editorial stories, thinking, and perspective from the brand.",
+    "path": "stories.html"
+  },
+  {
+    "title": "Case Studies",
+    "h1": "Case Studies",
+    "description": "A framework ready for verified projects and outcomes.",
+    "path": "case-studies.html"
+  },
+  {
+    "title": "Partners",
+    "h1": "Partners",
+    "description": "A place for real technology, channel, creative, and business partnerships.",
+    "path": "partners.html"
+  },
+  {
+    "title": "Careers",
+    "h1": "Careers",
+    "description": "A careers hub ready for real openings when hiring begins.",
+    "path": "careers.html"
+  },
+  {
+    "title": "Press &amp; Media",
+    "h1": "Press &amp; Media",
+    "description": "Press resources, approved brand facts, and media assets.",
+    "path": "press.html"
+  },
+  {
+    "title": "Newsroom",
+    "h1": "Newsroom",
+    "description": "Announcements, product updates, releases, and company news.",
+    "path": "newsroom.html"
+  },
+  {
+    "title": "Brand",
+    "h1": "Brand",
+    "description": "Brand story, identity principles, visual system, and usage guidance.",
+    "path": "brand.html"
+  },
+  {
+    "title": "Design System",
+    "h1": "Design System",
+    "description": "The reusable visual and interaction language behind the website.",
+    "path": "design-system.html"
+  },
+  {
+    "title": "Roadmap",
+    "h1": "Roadmap",
+    "description": "A transparent structure for future product, content, and experience development.",
+    "path": "roadmap.html"
+  },
+  {
+    "title": "Changelog",
+    "h1": "Changelog",
+    "description": "A place to document meaningful public changes over time.",
+    "path": "changelog.html"
+  },
+  {
+    "title": "Integration Directory",
+    "h1": "Integration Directory",
+    "description": "A scalable directory structure ready for real integrations.",
+    "path": "integrations-directory.html"
+  },
+  {
+    "title": "Guides",
+    "h1": "Guides",
+    "description": "Long-form educational guides organized around real customer questions.",
+    "path": "guides.html"
+  },
+  {
+    "title": "Downloads",
+    "h1": "Downloads",
+    "description": "A resource library ready for real documents, media kits, and tools.",
+    "path": "downloads.html"
+  },
+  {
+    "title": "Community",
+    "h1": "Community",
+    "description": "Community pathways, contribution guidance, and public participation.",
+    "path": "community.html"
+  },
+  {
+    "title": "Responsibility",
+    "h1": "Responsibility",
+    "description": "A space for verified sustainability, social, accessibility, and governance information.",
+    "path": "responsibility.html"
+  },
+  {
+    "title": "Legal Center",
+    "h1": "Legal Center",
+    "description": "A single place to discover public policies and legal information.",
+    "path": "legal-center.html"
+  },
+  {
+    "title": "Cookie Policy",
+    "h1": "Cookie Policy",
+    "description": "A policy shell ready to match the actual analytics and cookie configuration.",
+    "path": "cookies.html"
+  },
+  {
+    "title": "Privacy Preferences",
+    "h1": "Privacy Preferences",
+    "description": "A privacy-preferences surface ready for a real consent platform.",
+    "path": "preferences.html"
+  },
+  {
+    "title": "Contact Options",
+    "h1": "Contact Options",
+    "description": "All configured public contact paths in one clear place.",
+    "path": "contact-options.html"
+  },
+  {
+    "title": "Media Library",
+    "h1": "Media Library",
+    "description": "A visual library for brand imagery, campaign assets, and approved media.",
+    "path": "media-library.html"
+  },
+  {
+    "title": "Product Overview",
+    "h1": "Product Overview",
+    "description": "A flexible product architecture for brands with multiple offerings.",
+    "path": "product-overview.html"
+  },
+  {
+    "title": "Compare",
+    "h1": "Compare",
+    "description": "A comparison framework ready for verified product or plan differences.",
+    "path": "comparison.html"
+  },
+  {
+    "title": "Onboarding",
+    "h1": "Onboarding",
+    "description": "A guided starting path for customers, users, or partners.",
+    "path": "onboarding.html"
+  },
+  {
+    "title": "Customer Success",
+    "h1": "Customer Success",
+    "description": "A service framework for adoption, enablement, and ongoing support.",
+    "path": "customer-success.html"
+  },
+  {
+    "title": "Enterprise",
+    "h1": "Enterprise",
+    "description": "A scalable enterprise section ready for real contracts, controls, and commercial details.",
+    "path": "enterprise.html"
+  },
+  {
+    "title": "International",
+    "h1": "International",
+    "description": "A localization-ready global structure without inventing locations or coverage.",
+    "path": "international.html"
+  },
+  {
+    "title": "Accessibility Statement",
+    "h1": "Accessibility Statement",
+    "description": "A detailed accessibility commitment and improvement framework.",
+    "path": "accessibility-statement.html"
+  },
+  {
+    "title": "Popular Products",
+    "h1": "Popular Products",
+    "description": "A merchandising shell that only becomes factual when real sales data is connected.",
+    "path": "best-sellers.html"
+  },
+  {
+    "title": "Category One",
+    "h1": "Category One",
+    "description": "A category template ready to be renamed from real catalog data.",
+    "path": "category-one.html"
+  },
+  {
+    "title": "Category Two",
+    "h1": "Category Two",
+    "description": "A second category template for a broader catalog.",
+    "path": "category-two.html"
+  },
+  {
+    "title": "Product Detail One",
+    "h1": "Product Detail One",
+    "description": "A premium product-detail template using non-commercial demo data.",
+    "path": "product-one.html"
+  },
+  {
+    "title": "Product Detail Two",
+    "h1": "Product Detail Two",
+    "description": "A second product-detail template with alternate composition.",
+    "path": "product-two.html"
+  },
+  {
+    "title": "Product Detail Three",
+    "h1": "Product Detail Three",
+    "description": "A third product-detail template for layout variety.",
+    "path": "product-three.html"
+  },
+  {
+    "title": "Wishlist",
+    "h1": "Wishlist",
+    "description": "A local wishlist experience ready to connect to customer accounts.",
+    "path": "wishlist.html"
+  },
+  {
+    "title": "Cart",
+    "h1": "Cart",
+    "description": "A local cart shell that does not process real payments until configured.",
+    "path": "cart.html"
+  },
+  {
+    "title": "Checkout",
+    "h1": "Checkout",
+    "description": "A secure checkout handoff architecture; no card data is collected by the static site.",
+    "path": "checkout.html"
+  },
+  {
+    "title": "Order Tracking",
+    "h1": "Order Tracking",
+    "description": "A shell ready to connect to a real order-management system.",
+    "path": "order-tracking.html"
+  },
+  {
+    "title": "Shipping",
+    "h1": "Shipping",
+    "description": "A policy page ready for verified shipping regions, costs, carriers, and times.",
+    "path": "shipping.html"
+  },
+  {
+    "title": "Returns",
+    "h1": "Returns",
+    "description": "A returns framework ready for the business’s real policy.",
+    "path": "returns.html"
+  },
+  {
+    "title": "Size Guide",
+    "h1": "Size Guide",
+    "description": "A flexible sizing and specification guide.",
+    "path": "size-guide.html"
+  },
+  {
+    "title": "Gift Cards",
+    "h1": "Gift Cards",
+    "description": "A commerce module ready for a real gift-card provider.",
+    "path": "gift-cards.html"
+  },
+  {
+    "title": "Payment Methods",
+    "h1": "Payment Methods",
+    "description": "A page that should list only payment methods actually enabled by the business.",
+    "path": "payment-methods.html"
+  },
+  {
+    "title": "Store Locator",
+    "h1": "Store Locator",
+    "description": "A location shell that remains empty until real locations are supplied.",
+    "path": "store-locator.html"
+  },
+  {
+    "title": "Lookbook",
+    "h1": "Lookbook",
+    "description": "An editorial commerce gallery connecting product and brand storytelling.",
+    "path": "lookbook.html"
+  },
+  {
+    "title": "Editorial",
+    "h1": "Editorial",
+    "description": "Long-form visual storytelling for launches, collections, and culture.",
+    "path": "editorial.html"
+  },
+  {
+    "title": "Membership",
+    "h1": "Membership",
+    "description": "A loyalty or membership shell ready for a real program.",
+    "path": "membership.html"
+  },
+  {
+    "title": "Rewards",
+    "h1": "Rewards",
+    "description": "A rewards framework that stays inactive until a real loyalty system exists.",
+    "path": "rewards.html"
+  },
+  {
+    "title": "Customer Account",
+    "h1": "Customer Account",
+    "description": "An account-entry shell ready for a real authenticated commerce platform.",
+    "path": "account.html"
+  },
+  {
+    "title": "Commerce Setup",
+    "h1": "Commerce Setup",
+    "description": "A technical guide for connecting verified catalog, inventory, checkout, tax, and fulfillment.",
+    "path": "commerce-setup.html"
+  }
+]

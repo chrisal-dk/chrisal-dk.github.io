@@ -1,0 +1,16 @@
+{
+  "name": "Chrisal",
+  "short_name": "Chrisal",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0c1020",
+  "theme_color": "#0c1020",
+  "icons": [
+    {
+      "src": "assets/profile-avatar.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

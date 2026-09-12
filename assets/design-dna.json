@@ -1,0 +1,9 @@
+{
+  "hero": "floating-console",
+  "nav": "mega-nav",
+  "cards": "catalog-tile",
+  "grid": "gallery",
+  "type": "compact",
+  "motion": "kinetic",
+  "media": "editorial-collage"
+}

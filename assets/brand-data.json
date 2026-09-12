@@ -1,0 +1,57 @@
+{
+  "name": "Chrisal",
+  "category": "Ecommerce",
+  "tagline": "Built to Be Discovered.",
+  "description": "A modern commerce brand designed around products, collections, customer experience, and digital discovery.",
+  "colors": [
+    "#0c1020",
+    "#ffffff",
+    "#ff5b35",
+    "#3478ff",
+    "#a7b1c8",
+    "#141a2c"
+  ],
+  "capabilities": [
+    "Shop",
+    "Collections",
+    "New Arrivals",
+    "Brand Story",
+    "Support"
+  ],
+  "support": {
+    "email": null,
+    "phone": "+1 734 251 7381",
+    "salesPhone": "+1 734 251 7381",
+    "businessPhone": "+1 734 251 7381",
+    "hours": "4:13 PM 7/8/26",
+    "center": "https://chrisal-dk.github.io/support.html"
+  },
+  "privacy": {
+    "connectedAccountEmailPublished": false
+  },
+  "telnyxMode": false,
+  "creativeProfile": {
+    "id": "minimal-carrier",
+    "hero": "minimal",
+    "density": "quiet",
+    "accent": "type",
+    "order": [
+      "platform",
+      "story",
+      "trust",
+      "contact"
+    ]
+  },
+  "contactMode": "verified-input",
+  "commerceReady": true,
+  "designDna": {
+    "hero": "floating-console",
+    "nav": "mega-nav",
+    "cards": "catalog-tile",
+    "grid": "gallery",
+    "type": "compact",
+    "motion": "kinetic",
+    "media": "editorial-collage"
+  },
+  "generatedBy": "BrandForge Autopilot V14 Universal Creative Commerce Builder"
+}

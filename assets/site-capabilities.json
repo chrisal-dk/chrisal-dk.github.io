@@ -1,0 +1,12 @@
+{
+  "engine": "BrandForge Autopilot V14 Universal Creative Commerce Builder",
+  "modular": true,
+  "fixedTemplate": false,
+  "category": "ecommerce",
+  "commerceReady": true,
+  "mediaSystem": "local generated SVG + PNG brand assets",
+  "privacy": {
+    "connectedAccountEmailPublished": false,
+    "secretsAllowedInPublicOutput": false
+  }
+}
